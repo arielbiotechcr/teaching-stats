@@ -40,7 +40,7 @@ Each section includes practical examples and interpretation questions that were 
 
 ## 🌱 Dataset
 
-The dataset contains phenotypic measurements from **275 barley accessions**, including several agronomic and quality traits such as:
+It uses a synthetic dataset based of the "275 barley accessions conducted at ICARDA in 2019" study. This dataset contains phenotypic measurements from **275 barley accessions**, including several agronomic and quality traits such as:
 
 | Variable | Description |
 |----------|-------------|
